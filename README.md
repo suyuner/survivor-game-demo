@@ -4,14 +4,19 @@
 
 本仓库存放试玩版更新说明，安装包位于 [Releases](https://github.com/suyuner/survivor-game-demo/releases/latest)。
 
-## 下载 v0.9.0
+## 下载 v0.9.1
 
-- Windows：下载 `survivor-game-v0.9.0-win64.zip`，完整解压后运行 `survivor-game.exe`。请保留旁边的 Resources 文件夹及 DLL。
-- Android：下载 `survivor-game-v0.9.0-android.apk`，允许安装来自此来源的应用后安装。
+- Windows：下载 `survivor-game-v0.9.1-win64.zip`，完整解压后运行 `survivor-game.exe`。请保留旁边的 Resources 文件夹及 DLL。
+- Android：下载 `survivor-game-v0.9.1-android.apk`，允许安装来自此来源的应用后安装。
 
 Windows 需要 Windows 10/11 64 位。首次运行缺少运行库时，可安装微软 VC++ 2015–2022 x64 运行库。
 
 ## 当前内容
+
+- 唱片机：旋转封面碟片、左右切歌及切碟动画、暂停/继续、音量与进度显示。
+- 储物柜：机甲档案、基础参数、出战卡牌与更换入口。
+- 扭蛋机：免费试转动画与配色样片预览，不扣金币、不获得涂装。
+- 修复休闲设施无法退出、重复叠窗、长按确认键反复触发与关闭后的移动残留。
 
 - 赤星、千钧、沧隼三种机甲，兵装升阶与 18 张局内卡牌。
 - 大本营、休息室与街区，居民 NPC 和出击终端。
